@@ -1,0 +1,4 @@
+C:\Users\HP\Documents\Development System 2\BankAccountAbstractClass\obj\Debug\net8.0\BankAccountAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Development System 2\BankAccountAbstractClass\obj\Debug\net8.0\BankAccountAbstractClass.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Development System 2\BankAccountAbstractClass\obj\Debug\net8.0\BankAccountAbstractClass.AssemblyInfo.cs
+C:\Users\HP\Documents\Development System 2\BankAccountAbstractClass\obj\Debug\net8.0\BankAccountAbstractClass.csproj.CoreCompileInputs.cache
